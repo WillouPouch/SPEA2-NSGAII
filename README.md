@@ -9,6 +9,8 @@ Two multi-objective genetic algorithm containing user inputs for:
 
 The pareto front is plotted on a graph at each iteration, and the number of members in the front is printed.
 
+Results are discussed in the report.
+
 ## File organisation
 
 The two algorithms are contained in separate folders, each containing the steps of the algorithm (initialisation, evaluation, selection, ...).
